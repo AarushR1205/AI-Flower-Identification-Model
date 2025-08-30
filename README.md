@@ -85,5 +85,9 @@ Flower images are licensed under [CC BY 2.0](https://creativecommons.org/license
 - Flower dataset contributors
 
 ---
+## User Interface
+<br><br>
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b9fe9c44-35f1-467e-88bc-bafe9092ff5c" />
+
 
 **Made with ❤️ for flower lovers and AI enthusiasts!**
